@@ -1,0 +1,8 @@
+{
+    "token": "token1",
+    "host": "localhost",
+    "port": 8080,
+    "path": "/connect",
+    "customHeader": "X-Authorization",
+    "timeout": 10
+}
